@@ -1,0 +1,10 @@
+a a b x b a a 
+a a b x b aa 
+a a bxb a a 
+a a bxb aa 
+a abxba a 
+aa b x b a a 
+aa b x b aa 
+aa bxb a a 
+aa bxb aa 
+aabxbaa 

@@ -1,0 +1,6 @@
+.vscode
+.idea
+runner.out
+main.out
+main.out.dSYM
+*.swp

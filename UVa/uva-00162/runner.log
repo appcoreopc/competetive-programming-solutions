@@ -1,0 +1,4 @@
+"main.out < input/i1.txt > output/o1.txt" = 0.1925 AC
+"main.out < input/i2.txt > output/o2.txt" = 0.4473 AC
+
+Total = 2 | WA = 0, AC = 2

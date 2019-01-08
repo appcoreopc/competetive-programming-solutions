@@ -1,0 +1,9 @@
+"main.out < input/i1.txt > output/o1.txt" = 0.3109 AC
+"main.out < input/i2.txt > output/o2.txt" = 0.14651 AC
+"main.out < input/i3.txt > output/o3.txt" = 0.3187 AC
+"main.out < input/i4.txt > output/o4.txt" = 0.2171 AC
+"main.out < input/i5.txt > output/o5.txt" = 0.2020 AC
+"main.out < input/i6.txt > output/o6.txt" = 0.19798 AC
+"main.out < input/i7.txt > output/o7.txt" = 0.2162 AC
+
+Total = 7 | WA = 0, AC = 7
